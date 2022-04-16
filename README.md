@@ -93,11 +93,11 @@
 | ![img](images/item_pic_PD.png) | ![img](images/item_pic_PD.png) | ![img](images/item_pic_KMB.png) | ![img](images/item_pic_NGZ.png) |  |
 | [皮帶](道具.md#皮帶) | [皮帶](道具.md#皮帶) | [烤麵包](道具.md#烤麵包) | [南瓜粥](道具.md#南瓜粥) | [蘋果派](道具.md#蘋果派) |
 | ![img](images/item_pic_JDJ.png) | ![img](images/item_pic_RSFT.png) | ![img](images/item_pic_ZST.png) | ![img](images/item_pic_MGYM.png) | ![img](images/item_pic_CTZJ.png) |
-| [煎蛋卷](道具.md#煎蛋卷) | [手握飯團](道具.md#手握飯團) | [炸薯條](道具.md#炸薯條) | [蘑菇意面](道具.md#蘑菇意面) | [傳統蒸餃](道具.md#傳統蒸餃) |
+| [煎蛋卷](道具.md#煎蛋卷) | [手握飯糰](道具.md#手握飯糰) | [炸薯條](道具.md#炸薯條) | [蘑菇意麵](道具.md#蘑菇意麵) | [傳統蒸餃](道具.md#傳統蒸餃) |
 |  |  |  |  |  |
-| [烤麵包](道具.md#烤麵包) | [南瓜粥](道具.md#南瓜粥) | [蘋果派](道具.md#蘋果派) | [煎蛋卷](道具.md#煎蛋卷) | [手握飯團](道具.md#手握飯團) |
+| [烤麵包](道具.md#烤麵包) | [南瓜粥](道具.md#南瓜粥) | [蘋果派](道具.md#蘋果派) | [煎蛋卷](道具.md#煎蛋卷) | [手握飯糰](道具.md#手握飯糰) |
 |  |  |  | ![img](images/item_pic_YJZF.png) | ![img](images/item_pic_JS.png) |
-| [炸薯條](道具.md#炸薯條) | [蘑菇意面](道具.md#蘑菇意面) | [傳統蒸餃](道具.md#傳統蒸餃) | [獄警制服](道具.md#獄警制服) | [警哨](道具.md#警哨) |
+| [炸薯條](道具.md#炸薯條) | [蘑菇意麵](道具.md#蘑菇意麵) | [傳統蒸餃](道具.md#傳統蒸餃) | [獄警制服](道具.md#獄警制服) | [警哨](道具.md#警哨) |
 | ![img](images/item_pic_XYFYS.png) | ![img](images/item_pic_XYFYS.png) | ![img](images/item_pic_XYFYS.png) | ![img](images/item_pic_QS.png) | ![img](images/item_pic_QS.png) |
 | [洗衣房鑰匙](道具.md#洗衣房鑰匙) | [裝備庫鑰匙](道具.md#裝備庫鑰匙) | [藥房鑰匙](道具.md#藥房鑰匙) | [給貝絲的情書](道具.md#給貝絲的情書) | [給瑪姬的情書](道具.md#給瑪姬的情書) |
 | ![img](images/item_pic_QS.png) | ![img](images/item_pic_XSSG.png) | ![img](images/item_pic_FMDMB.png) | ![img](images/item_pic_JGZ.png) | ![img](images/item_pic_SZY.png) |
