@@ -39,7 +39,7 @@
 | ![img](images/item_pic_XJST.png) | ![img](images/item_pic_HS.png) | ![img](images/item_pic_DZB.png) | ![img](images/item_pic_HYHSF.png) | ![img](images/item_pic_YCXL.png) |
 | [橡膠手套](道具.md#橡膠手套) | [黑手](道具.md#黑手) | [手錶](道具.md#手錶) | [護身符](道具.md#護身符) | [牙齒項鏈](道具.md#牙齒項鏈) |
 | ![img](images/item_pic_SLZS.png) | ![img](images/item_pic_KSQ.png) | ![img](images/item_pic_KSQ.png) | ![img](images/item_pic_ZZKZ.png) |  |
-| [《死靈之書》](道具.md#《死靈之書》) | [開鎖器](道具.md#開鎖器) | [開鎖器(P)](道具.md#開鎖器(P)) | [自制口罩](道具.md#自制口罩) | [警用防毒面具](道具.md#警用防毒面具) |
+| [《死靈之書》](道具.md#《死靈之書》) | [開鎖器](道具.md#開鎖器) | [開鎖器(P)](道具.md#開鎖器(P)) | [自製口罩](道具.md#自製口罩) | [警用防毒面具](道具.md#警用防毒面具) |
 | ![img](images/item_pic_SST.png) | ![img](images/item_pic_SST.png) | ![img](images/item_pic_SST.png) | ![img](images/item_pic_JHL.png) | ![img](images/item_pic_HTA.png) |
 | [隨身聽（開機）](道具.md#隨身聽（開機）) | [隨身聽（關機）](道具.md#隨身聽（關機）) | [隨身聽（沒電）](道具.md#隨身聽（沒電）) | [酒葫蘆](道具.md#酒葫蘆) | [黑桃A](道具.md#黑桃A) |
 | ![img](images/item_pic_BHY.png) | ![img](images/item_pic_BHYJ.png) | ![img](images/item_pic_HMG.png) | ![img](images/item_pic_MGF.png) | ![img](images/item_pic_XY.png) |
@@ -73,7 +73,7 @@
 | ![img](images/item_pic_HC.png) | ![img](images/item_pic_JD.png) | ![img](images/item_pic_YL.png) | ![img](images/item_pic_DZ.png) | ![img](images/item_pic_XD.png) |
 | [火柴](道具.md#火柴) | [膠帶](道具.md#膠帶) | [顏料](道具.md#顏料) | [釘子](道具.md#釘子) | [鞋帶](道具.md#鞋帶) |
 | ![img](images/item_pic_BZ.png) | ![img](images/item_pic_HS2.png) | ![img](images/item_pic_HTJ.png) | ![img](images/item_pic_LTJ.png) | ![img](images/item_pic_HLDTY.png) |
-| [白紙](道具.md#白紙) | [花束](道具.md#花束) | [紅頭巾](道具.md#紅頭巾) | [綠頭巾](道具.md#綠頭巾) | [胡亂的涂鴉](道具.md#胡亂的涂鴉) |
+| [白紙](道具.md#白紙) | [花束](道具.md#花束) | [紅頭巾](道具.md#紅頭巾) | [綠頭巾](道具.md#綠頭巾) | [胡亂的塗鴉](道具.md#胡亂的塗鴉) |
 | ![img](images/item_pic_JDDMH.png) | ![img](images/item_pic_JMDHZ.png) | ![img](images/item_pic_QB.png) | ![img](images/item_pic_QB.png) | ![img](images/item_pic_YZB.png) |
 | [簡單的漫畫](道具.md#簡單的漫畫) | [精美的畫作](道具.md#精美的畫作) | [鉛筆](道具.md#鉛筆) | [鉛筆](道具.md#鉛筆) | [圓珠筆](道具.md#圓珠筆) |
 | ![img](images/item_pic_YZB.png) | ![img](images/item_pic_YB.png) | ![img](images/item_pic_CLS.png) | ![img](images/item_pic_JYLSD.png) | ![img](images/item_pic_JYLSD.png) |
