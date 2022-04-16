@@ -1,6 +1,6 @@
 # 動物迷城資料集
 
-## 囚犯
+## [角色](角色一覽.md)
 
 ||||||
 |:--:|:--:|:--:|:--:|:--:|
@@ -79,7 +79,7 @@
 | ![img](images/item_pic_YZB.png) | ![img](images/item_pic_YB.png) | ![img](images/item_pic_CLS.png) | ![img](images/item_pic_JYLSD.png) | ![img](images/item_pic_JYLSD.png) |
 | [圓珠筆](道具.md#圓珠筆) | [硬幣](道具.md#硬幣) | [長螺絲](道具.md#長螺絲) | [簡易螺絲刀](道具.md#簡易螺絲刀) | [簡易螺絲刀(P)](道具.md#簡易螺絲刀(P)) |
 | ![img](images/item_pic_JYLSD.png) | ![img](images/item_pic_JYLSD.png) |  |  | ![img](images/item_pic_BS.png) |
-| [簡易螺絲刀(+)](道具.md#簡易螺絲刀(+)) | [簡易螺絲刀(P+)](道具.md#簡易螺絲刀(P+)) | [高效螺絲鉆](道具.md#高效螺絲鉆) | [高效螺絲鉆(P)](道具.md#高效螺絲鉆(P)) | [扳手](道具.md#扳手) |
+| [簡易螺絲刀(+)](道具.md#簡易螺絲刀(+)) | [簡易螺絲刀(P+)](道具.md#簡易螺絲刀(P+)) | [高效螺絲鑽](道具.md#高效螺絲鑽) | [高效螺絲鑽(P)](道具.md#高效螺絲鑽(P)) | [扳手](道具.md#扳手) |
 | ![img](images/item_pic_TC.png) | ![img](images/item_pic_TC.png) | ![img](images/item_pic_JYHZC.png) |  |  |
 | [湯匙](道具.md#湯匙) | [湯匙](道具.md#湯匙) | [簡易鶴嘴鋤](道具.md#簡易鶴嘴鋤) | [簡易鶴嘴鋤(P)](道具.md#簡易鶴嘴鋤(P)) | [簡易鶴嘴鋤(+)](道具.md#簡易鶴嘴鋤(+)) |
 |  | ![img](images/item_pic_JGHZC.png) |  |  |  |
@@ -105,3 +105,7 @@
 |  | ![img](images/item_pic_SMZD.png) | ![img](images/item_pic_DEMOZH.png) | ![img](images/item_pic_BYZB.png) |  |
 | [《森之音》（改造）](道具.md#《森之音》（改造）) | [神秘紙袋](道具.md#神秘紙袋) | [DEMO限定紙鶴](道具.md#DEMO限定紙鶴) | [備用帳簿](道具.md#備用帳簿) |  |
 
+
+## [技能](技能.md)
+
+## [文藝](文藝.md)
