@@ -66,7 +66,7 @@
 | [肥皂槍](道具.md#肥皂槍) | [計算機](道具.md#計算機) | [《花花世界》（全新）](道具.md#《花花世界》（全新）) | [《花花世界》（看過）](道具.md#《花花世界》（看過）) | [《花花世界》（翻爛）](道具.md#《花花世界》（翻爛）) |
 | ![img](images/item_pic_MNLHB.png) | ![img](images/item_pic_MNLHB2.png) | ![img](images/item_pic_HNLHB.png) | ![img](images/item_pic_TNLHB.png) | ![img](images/item_pic_KFM.png) |
 | [馬女郎海報](道具.md#馬女郎海報) | [貓女郎海報](道具.md#貓女郎海報) | [狐女郎海報](道具.md#狐女郎海報) | [兔女郎海報](道具.md#兔女郎海報) | [咖啡磨](道具.md#咖啡磨) |
-| ![img](images/item_pic_ZSYXJ.png) |  | ![img](images/item_pic_SDT.png) |  | ![img](images/item_pic_DC.png) |
+| ![img](images/item_pic_ZSYXJ.png) | ![img](images/item_pic_ZSYXJ.png) | ![img](images/item_pic_SDT.png) | ![img](images/item_pic_SDT.png) | ![img](images/item_pic_DC.png) |
 | [掌上遊戲機](道具.md#掌上遊戲機) | [掌上遊戲機（沒電）](道具.md#掌上遊戲機（沒電）) | [手電筒](道具.md#手電筒) | [手電筒（沒電）](道具.md#手電筒（沒電）) | [電池](道具.md#電池) |
 | ![img](images/item_pic_YS.png) | ![img](images/item_pic_YG.png) | ![img](images/item_pic_KDYGG.png) | ![img](images/item_pic_XDY.png) | ![img](images/item_pic_CXJ.png) |
 | [牙刷](道具.md#牙刷) | [牙膏](道具.md#牙膏) | [空的牙膏管](道具.md#空的牙膏管) | [消毒液](道具.md#消毒液) | [除銹劑](道具.md#除銹劑) |
@@ -80,29 +80,29 @@
 | [圓珠筆](道具.md#圓珠筆) | [硬幣](道具.md#硬幣) | [長螺絲](道具.md#長螺絲) | [簡易螺絲刀](道具.md#簡易螺絲刀) | [簡易螺絲刀(P)](道具.md#簡易螺絲刀(P)) |
 | ![img](images/item_pic_JYLSD.png) | ![img](images/item_pic_JYLSD.png) |  |  | ![img](images/item_pic_BS.png) |
 | [簡易螺絲刀(+)](道具.md#簡易螺絲刀(+)) | [簡易螺絲刀(P+)](道具.md#簡易螺絲刀(P+)) | [高效螺絲鑽](道具.md#高效螺絲鑽) | [高效螺絲鑽(P)](道具.md#高效螺絲鑽(P)) | [扳手](道具.md#扳手) |
-| ![img](images/item_pic_TC.png) | ![img](images/item_pic_TC.png) | ![img](images/item_pic_JYHZC.png) |  |  |
+| ![img](images/item_pic_TC.png) | ![img](images/item_pic_TC.png) | ![img](images/item_pic_JYHZC.png) | ![img](images/item_pic_JYHZC.png) | ![img](images/item_pic_JYHZC.png) |
 | [湯匙](道具.md#湯匙) | [湯匙](道具.md#湯匙) | [簡易鶴嘴鋤](道具.md#簡易鶴嘴鋤) | [簡易鶴嘴鋤(P)](道具.md#簡易鶴嘴鋤(P)) | [簡易鶴嘴鋤(+)](道具.md#簡易鶴嘴鋤(+)) |
-|  | ![img](images/item_pic_JGHZC.png) |  |  |  |
+| ![img](images/item_pic_JYHZC.png) | ![img](images/item_pic_JGHZC.png) | ![img](images/item_pic_JGHZC.png) | ![img](images/item_pic_JGHZC.png) | ![img](images/item_pic_JGHZC.png) |
 | [簡易鶴嘴鋤(P+)](道具.md#簡易鶴嘴鋤(P+)) | [加固鶴嘴鋤](道具.md#加固鶴嘴鋤) | [加固鶴嘴鋤(P)](道具.md#加固鶴嘴鋤(P)) | [加固鶴嘴鋤(+)](道具.md#加固鶴嘴鋤(+)) | [加固鶴嘴鋤(P+)](道具.md#加固鶴嘴鋤(P+)) |
-| ![img](images/item_pic_DC2.png) | ![img](images/item_pic_JD2.png) | ![img](images/item_pic_SBL.png) | ![img](images/item_pic_BLBS.png) |  |
+| ![img](images/item_pic_DC2.png) | ![img](images/item_pic_JD2.png) | ![img](images/item_pic_SBL.png) | ![img](images/item_pic_BLBS.png) | ![img](images/item_pic_BLBS.png) |
 | [釘錘](道具.md#釘錘) | [剪刀](道具.md#剪刀) | [碎玻璃](道具.md#碎玻璃) | [玻璃匕首](道具.md#玻璃匕首) | [玻璃匕首(+)](道具.md#玻璃匕首(+)) |
-| ![img](images/item_pic_YSBS.png) |  | ![img](images/item_pic_SGD.png) | ![img](images/item_pic_ZDDMT.png) | ![img](images/item_pic_SJG.png) |
+| ![img](images/item_pic_YSBS.png) | ![img](images/item_pic_YSBS.png) | ![img](images/item_pic_SGD.png) | ![img](images/item_pic_ZDDMT.png) | ![img](images/item_pic_BLBS.png) |
 | [牙刷匕首](道具.md#牙刷匕首) | [牙刷匕首(+)](道具.md#牙刷匕首(+)) | [水果刀](道具.md#水果刀) | [折斷的木條](道具.md#折斷的木條) | [雙節棍](道具.md#雙節棍) |
-|  | ![img](images/item_pic_DB.png) |  | ![img](images/item_pic_TG.png) | ![img](images/item_pic_JG.png) |
+| ![img](images/item_pic_BLBS.png) | ![img](images/item_pic_DB.png) | ![img](images/item_pic_DB.png) | ![img](images/item_pic_TG.png) | ![img](images/item_pic_TG.png) |
 | [雙節棍(+)](道具.md#雙節棍(+)) | [釘棒](道具.md#釘棒) | [釘棒(+)](道具.md#釘棒(+)) | [鐵管](道具.md#鐵管) | [警棍](道具.md#警棍) |
-| ![img](images/item_pic_PD.png) | ![img](images/item_pic_PD.png) | ![img](images/item_pic_KMB.png) | ![img](images/item_pic_NGZ.png) |  |
+| ![img](images/item_pic_PD.png) | ![img](images/item_pic_PD.png) | ![img](images/item_pic_KMB.png) | ![img](images/item_pic_NGZ.png) | ![img](images/item_pic_RSFT.png) |
 | [皮帶](道具.md#皮帶) | [皮帶](道具.md#皮帶) | [烤麵包](道具.md#烤麵包) | [南瓜粥](道具.md#南瓜粥) | [蘋果派](道具.md#蘋果派) |
-| ![img](images/item_pic_JDJ.png) | ![img](images/item_pic_RSFT.png) | ![img](images/item_pic_ZST.png) | ![img](images/item_pic_MGYM.png) | ![img](images/item_pic_CTZJ.png) |
+| ![img](images/item_pic_RSFT.png) | ![img](images/item_pic_RSFT.png) | ![img](images/item_pic_ZST.png) | ![img](images/item_pic_ZST.png) | ![img](images/item_pic_ZST.png) |
 | [煎蛋卷](道具.md#煎蛋卷) | [手握飯糰](道具.md#手握飯糰) | [炸薯條](道具.md#炸薯條) | [蘑菇意麵](道具.md#蘑菇意麵) | [傳統蒸餃](道具.md#傳統蒸餃) |
-|  |  |  |  |  |
+| ![img](images/item_pic_KMB.png) | ![img](images/item_pic_NGZ.png) | ![img](images/item_pic_RSFT.png) | ![img](images/item_pic_RSFT.png) | ![img](images/item_pic_RSFT.png) |
 | [烤麵包](道具.md#烤麵包) | [南瓜粥](道具.md#南瓜粥) | [蘋果派](道具.md#蘋果派) | [煎蛋卷](道具.md#煎蛋卷) | [手握飯糰](道具.md#手握飯糰) |
-|  |  |  | ![img](images/item_pic_YJZF.png) | ![img](images/item_pic_JS.png) |
+| ![img](images/item_pic_ZST.png) | ![img](images/item_pic_ZST.png) | ![img](images/item_pic_ZST.png) | ![img](images/item_pic_CD.png) | ![img](images/item_pic_JS.png) |
 | [炸薯條](道具.md#炸薯條) | [蘑菇意麵](道具.md#蘑菇意麵) | [傳統蒸餃](道具.md#傳統蒸餃) | [獄警制服](道具.md#獄警制服) | [警哨](道具.md#警哨) |
 | ![img](images/item_pic_XYFYS.png) | ![img](images/item_pic_XYFYS.png) | ![img](images/item_pic_XYFYS.png) | ![img](images/item_pic_QS.png) | ![img](images/item_pic_QS.png) |
 | [洗衣房鑰匙](道具.md#洗衣房鑰匙) | [裝備庫鑰匙](道具.md#裝備庫鑰匙) | [藥房鑰匙](道具.md#藥房鑰匙) | [給貝絲的情書](道具.md#給貝絲的情書) | [給瑪姬的情書](道具.md#給瑪姬的情書) |
-| ![img](images/item_pic_QS.png) | ![img](images/item_pic_XSSG.png) | ![img](images/item_pic_FMDMB.png) | ![img](images/item_pic_JGZ.png) | ![img](images/item_pic_SZY.png) |
+| ![img](images/item_pic_QS.png) | ![img](images/item_pic_QS.png) | ![img](images/item_pic_FMDMB.png) | ![img](images/item_pic_JGZ.png) | ![img](images/item_pic_SZY.png) |
 | [給妻子的情書](道具.md#給妻子的情書) | [小說手稿](道具.md#小說手稿) | [發霉的麵包](道具.md#發霉的麵包) | [金龜子](道具.md#金龜子) | [《森之音》](道具.md#《森之音》) |
-|  | ![img](images/item_pic_SMZD.png) | ![img](images/item_pic_DEMOZH.png) | ![img](images/item_pic_BYZB.png) |  |
+| ![img](images/item_pic_SZY.png) | ![img](images/item_pic_SMZD.png) | ![img](images/item_pic_DEMOZH.png) | ![img](images/item_pic_BYZB.png) |  |
 | [《森之音》（改造）](道具.md#《森之音》（改造）) | [神秘紙袋](道具.md#神秘紙袋) | [DEMO限定紙鶴](道具.md#DEMO限定紙鶴) | [備用帳簿](道具.md#備用帳簿) |  |
 
 
